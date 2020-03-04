@@ -1,0 +1,57 @@
+@media all and (max-width: 1200px) {
+
+    .slider-item {
+        height: 54vh;
+    }
+
+}
+
+
+@media all and (max-width: 991px) {
+
+    .main-nav {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .header-bttm {
+        display: none;
+    }
+
+    header {
+        background: #ececec;
+    }
+
+    
+}
+
+@media all and (max-width: 768px) {
+    .surveillance-solutions .card {
+        margin-bottom: 15px;
+    }
+
+    .section-header h2 {
+        font-size: 30px;
+    }
+    .slider-item {
+        height: 32vh;
+
+    }
+
+
+}
+
+@media all and (max-width: 576px) {
+    .section-header h2 {
+        font-size: 28px;
+
+    }
+
+    .slider-item {
+        height: 25vh;
+    }
+
+}
